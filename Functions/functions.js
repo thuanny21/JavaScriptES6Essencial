@@ -1,5 +1,5 @@
 function fn() {
-    return 'Code here';
+    return 'Code here';''
 }
 
 const arrowFn = () => 'Code here';
